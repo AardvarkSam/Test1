@@ -39,4 +39,4 @@ case "$eingabe" in
 
 esac
 
-
+#testkommentar
